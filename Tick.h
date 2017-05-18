@@ -7,7 +7,7 @@
 
 #include "DataTypes.h"
 
-/* Murva */
+/* Murvan */
 #ifndef TICK_H
 #define	TICK_H
 
